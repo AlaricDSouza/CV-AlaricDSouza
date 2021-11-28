@@ -1,0 +1,50 @@
+#Files to ignore
+
+cv_16.zip
+AD03_6109.jpg
+alaric.jpeg
+alaric_dsouza_v3.jpg
+Alaric_10_CenterHead.png
+
+
+#Mac folder file
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+
+#Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+#Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+#Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+#hyperref
+*.brf
+
+
